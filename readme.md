@@ -15,6 +15,7 @@ The course will cover these key topics:
 * An introduction to statistics using R (linear regression, anova, and some other simple tests).
 
 Slides to accompany this course are [here](https://mark-andrews.github.io/isurr23/slides.html), and the accompanying source code is [here](content/slides.Rmd).
+A demo webpage made with RMarkdown of the kind we will make in the course is [here](https://mark-andrews.github.io/isurr23/demo_rmarkdown.html), and its source code is [here](content/demo_rmarkdown.html).
 
 The course will take 6 contact hours per day plus two 2-hour breaks. The sessions will be as follows:
 
